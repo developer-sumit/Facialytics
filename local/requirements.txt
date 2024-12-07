@@ -1,0 +1,5 @@
+matplotlib
+numpy
+opencv-python
+scipy
+tensorflow==2.18.0

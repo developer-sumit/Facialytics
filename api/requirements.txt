@@ -1,0 +1,6 @@
+opencv-python
+numpy
+tensorflow == 2.12.0
+django
+djangorestframework
+django-cors-headers
